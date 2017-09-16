@@ -8,3 +8,10 @@
  * CDI 
  * Controller 
  * Rest
+
+Links para referência
+---
+
+* https://spring.io/
+
+* https://projects.spring.io/spring-boot/
